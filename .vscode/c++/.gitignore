@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Temporary / Editor files
+.vscode/*
+!.vscode/c++
+!.vscode/settings.json
+!.vscode/tasks.json
+*.swp
+*~
